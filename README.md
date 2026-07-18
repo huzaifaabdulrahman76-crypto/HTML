@@ -1,50 +1,108 @@
-# 🗡️ Attack on Titan HTML Project
+# 🪽 Attack on Titan – HTML Lab Project
 
-Welcome to my repository! This project is a tribute to **Attack on Titan (Shingeki no Kyojin)**, built entirely using semantic HTML and custom CSS. 
+![HTML5](https://img.shields.io/badge/Language-HTML5-orange?style=for-the-badge&logo=html5)
+![No CSS](https://img.shields.io/badge/CSS-Not%20Used-red?style=for-the-badge)
+![No JavaScript](https://img.shields.io/badge/JavaScript-Not%20Used-lightgrey?style=for-the-badge)
+![Lab Project](https://img.shields.io/badge/Project-University%20Lab-blue?style=for-the-badge)
+![Tables](https://img.shields.io/badge/HTML-Tables-success?style=for-the-badge)
+![Status](https://img.shields.io/badge/Status-Completed-brightgreen?style=for-the-badge)
 
-It serves as a hands-on project to master structuring data using **HTML Tables**, styled beautifully to match the dark, gritty aesthetic of the anime.
+A simple **Attack on Titan (Shingeki no Kyojin)** themed webpage built entirely with **HTML** as part of **Lab No. 7**. This project focuses on practicing core HTML concepts by creating a structured webpage featuring text formatting, hyperlinks, images, tables, and other fundamental HTML elements without using CSS or JavaScript.
 
 ---
 
-## 🌐 Live Preview
-Check out the live page here:
-👉 **[View My Attack on Titan Page](https://huzaifaabdulrahman76-crypto.github.io/HTML/)**
+## 📖 About
+
+This project was developed as **Lab No. 7** during my university coursework to strengthen my understanding of HTML fundamentals. It presents information about the anime **Attack on Titan** while demonstrating the use of essential HTML tags and page structure.
 
 ---
 
-## 📊 Inside the Project: How Tables are Structured
+## ✨ Features
 
-To display information like the different Military Regiments (Scout Regiment, Garrison, Military Police) and character stats, I used structured HTML tables. 
+- 📄 Semantic HTML structure
+- 📝 Headings, paragraphs, and text formatting
+- 🖼️ Image slideshow using the `<marquee>` tag
+- 🔗 External hyperlinks
+- 📊 Character information table
+- 📋 Preformatted text using `<pre>`
+- 🌙 Dark-themed webpage using HTML attributes only
+- 📚 Informational content about Attack on Titan
 
-Here is a quick cheat sheet of the tags I used to build them:
+---
 
-* `<table>` - The wrapper container for the entire grid.
-* `<thead>` - Defines the header section of the table.
-* `<tbody>` - Houses the main data rows.
-* `<tr>` - Creates a table row.
-* `<th>` - Creates a bold, centered header cell (like "Regiment Name", "Insignia", "Role").
-* `<td>` - Houses the actual data inside the cells (like "Scout Regiment", "Wings of Freedom").
+## 🛠️ Technologies Used
 
-### Quick HTML Table Example Used:
-```html
-<table>
-  <thead>
-    <tr>
-      <th>Regiment</th>
-      <th>Insignia</th>
-      <th>Key Characters</th>
-    </tr>
-  </thead>
-  <tbody>
-    <tr>
-      <td>Scout Regiment</td>
-      <td>Wings of Freedom</td>
-      <td>Eren Yeager, Levi Ackerman</td>
-    </tr>
-    <tr>
-      <td>Military Police</td>
-      <td>Unicorn</td>
-      <td>Annie Leonhart, Nile Dok</td>
-    </tr>
-  </tbody>
-</table>
+- HTML5
+
+---
+
+## 📂 Project Structure
+
+```
+Attack-on-Titan-HTML/
+│── index.html
+│── ATTACK.jpg
+│── ko.jpg
+│── ib.jpeg
+└── README.md
+```
+
+---
+
+## 📚 HTML Concepts Practiced
+
+- HTML Document Structure
+- Headings
+- Paragraphs
+- Font Formatting
+- Horizontal Rules
+- Hyperlinks
+- Images
+- Marquee
+- Tables
+- Preformatted Text
+- HTML Attributes
+- Background & Text Colors
+
+---
+
+## 🚀 Getting Started
+
+1. Clone this repository.
+
+```bash
+git clone https://github.com/your-username/attack-on-titan-html.git
+```
+
+2. Open the project folder.
+
+3. Place the images in the same directory as `index.html`.
+
+4. Open `index.html` in your preferred web browser.
+
+---
+
+## 🎯 Learning Objectives
+
+- Practice writing clean HTML
+- Learn to organize webpage content
+- Understand HTML tables and hyperlinks
+- Build webpages without CSS or JavaScript
+- Improve semantic HTML skills
+
+---
+
+## 📌 Project Information
+
+- **Course:** Programming for AI Lab
+- **Lab:** No. 7
+- **Topic:** Attack on Titan
+- **Language:** HTML5
+
+---
+
+## 👨‍💻 Author
+
+**Huzaifa Abdul Rahman**
+
+If you enjoyed this project, don't forget to ⭐ the repository!
